@@ -15,3 +15,4 @@ Applet est "deprecated" pour modifier le code d'applet simple en Jframe.
 > Pour les applets simples, cela devrait le faire
 > * étendre JFrame (évidemment) au lieu de Applet
 > * déplacer des éléments de init() vers le constructeur.
+# nfp121.tp4
